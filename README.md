@@ -1,1 +1,2 @@
-# Abbas
+Myntra clone using HTML & CSS
+This GitHub repository hosts a Myntra clone crafted using HTML and CSS. It faithfully replicates Myntra's user interface, encompassing its key features such as responsive design, navigation, product display, search functionality, styling, category pages, cart functionality, checkout process, and footer information. The codebase is well-documented with clear comments, facilitating easy comprehension and modification. 
